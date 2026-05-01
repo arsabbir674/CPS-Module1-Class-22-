@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
+//https://www.codechef.com/problems/HDIVISR
 
 int main() {
     int n;
