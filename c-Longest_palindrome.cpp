@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+//https://atcoder.jp/contests/abc320/tasks/abc320_b
 int main()
 {
     string str;
